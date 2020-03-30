@@ -4,6 +4,7 @@ Run the "hello, world" program on your system. Experiment with leaving out parts
 # Notes
 Although the program compiles and runs, it compiles with a warning:
   ```hello_world.c:3:1: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
-  main()
-  ^```
+     main()
+     ^
+  ```
 Obiously, in later versions of C, the functions began requiring type specificity.
